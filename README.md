@@ -3,6 +3,8 @@ Mininet
 
 Mininet is a network emulator for rapid prototyping of software-defined networks.
 
-home page:    http://mininet.github.com
+Please visit us at:
 
-source code:  https://github.com/mininet/mininet/
+Mininet home page:    http://mininet.github.com
+
+Mininet source code:  https://github.com/mininet/mininet/
